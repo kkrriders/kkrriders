@@ -1,49 +1,29 @@
-# Hello, I'm Kartik! 👋
+# Kartik's Projects
 
+## About Me
+Hi! My name is Kartik and I am a student at ACE. I have a good command of the following programming languages and frameworks:
+- MERN (MongoDB, Express.js, React.js, Node.js)
+- C++
+- C
+- Python
 
-I'm  student at ACE, pursuing a Bachelor's in Computer Science Engineering. My goal is to secure a Web Developer role at a reputed company where I can gain industry knowledge and experience. I am currently working with CodroidHub and have developed a robust skill set in web development technologies.
+## Projects
+Here are some of the projects I have worked on:
 
-<div align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
+### 1. Resume Maker
+A web application that allows users to create professional resumes by filling out forms. The application provides various templates and options for customization.
 
-## 🛠 Skills
+### 2. Face Detection
+A Python-based project that utilizes computer vision techniques to detect faces in images and video streams. This project makes use of libraries such as OpenCV and dlib.
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-4CAF50?style=for-the-badge)
-![OOPS](https://img.shields.io/badge/OOPS-9C27B0?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 3. Decentralized Voting System
+A blockchain-based voting system that ensures secure, transparent, and tamper-proof elections. This project leverages smart contracts to handle the voting process and provides a decentralized platform for casting and counting votes.
 
-## 🌱 Currently Learning
+## Contact
+Feel free to reach out to me if you have any questions or would like to collaborate on a project!
 
-- Advanced React.js
-- TypeScript
-- GraphQL
+- Email: [your-email@example.com]
+- LinkedIn: [your-linkedin-profile]
+- GitHub: [your-github-profile]
 
-## 🚀 Projects
-
-### [Portfolio Website](https://github.com/yourusername/portfolio-website)
-![Portfolio Website](https://raw.githubusercontent.com/yourusername/portfolio-website/main/assets/portfolio.png)
-
-A personal portfolio website to showcase my projects and skills. Built with React.js, Node.js, and Express.js.
-
-### [E-commerce Platform](https://github.com/yourusername/e-commerce-platform)
-![E-commerce Platform](https://raw.githubusercontent.com/yourusername/e-commerce-platform/main/assets/e-commerce.png)
-
-An e-commerce platform with features like user authentication, product listings, and a shopping cart. Developed using MongoDB, Express.js, React.js, and Node.js.
-
-## 💬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- [Twitter](https://twitter.com/yourtwitterhandle)
-- [Portfolio](https://yourportfolio.com)
-
-
----
+Thank you for visiting my GitHub profile!
