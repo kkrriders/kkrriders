@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud Systems Architect** and **AI Developer** passionate about building **scalable, intelligent infrastructure** and pioneering **next-generation AI systems**. I specialize in creating production-ready solutions that bridge the gap between cloud technologies and artificial intelligence.
+I'm and **AI Developer** passionate about building **scalable, intelligent infrastructure** and pioneering **next-generation AI systems**. I specialize in creating production-ready solutions that bridge the gap between cloud technologies and artificial intelligence.
 
 - 🔭 Currently working on **breakthrough multi-agent AI communication protocols**
 - 🌱 Always exploring **cloud-native architectures** and **AI system optimization**
