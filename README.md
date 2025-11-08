@@ -1,193 +1,271 @@
-# 👋 Hi, I'm Kartik
+# Hi, I'm Kartik
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+Systems+Architect;AI+%26+Multi-Agent+Systems+Developer;DevOps+%26+Infrastructure+Automation;Real-time+Monitoring+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Building+Intelligent+Systems;Learning+%26+Growing+Every+Day)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-I'm and **AI Developer** passionate about building **scalable, intelligent infrastructure** and pioneering **next-generation AI systems**. I specialize in creating production-ready solutions that bridge the gap between cloud technologies and artificial intelligence.
+I'm an **AI/ML Developer** passionate about building intelligent systems and exploring the fascinating world of artificial intelligence. Currently on a journey from beginner to intermediate level, I'm focused on creating practical AI applications that solve real problems.
 
-- 🔭 Currently working on **breakthrough multi-agent AI communication protocols**
-- 🌱 Always exploring **cloud-native architectures** and **AI system optimization**
-- 💡 Interested in **serverless computing**, **real-time systems**, and **intelligent automation**
-- 🎯 Building the future of **distributed AI systems** and **cloud infrastructure**
+- Building **ChasmX** - An AI-powered workflow automation platform
+- Learning **LLM integration**, **multi-agent systems**, and **ML optimization**
+- Exploring **prompt engineering**, **RAG systems**, and **AI orchestration**
+- Contributing to open-source AI projects and sharing my learning journey
 
-## 🏗️ Architecture Expertise
+## Tech Stack
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    Cloud Native Stack                       │
-├─────────────────────────────────────────────────────────────┤
-│  AI/ML Layer     │ Multi-Agent Systems │ Real-time Analytics │
-│  Cloud Platform  │ AWS │ Azure │ GCP   │ Kubernetes         │
-│  Infrastructure  │ Terraform │ Ansible │ Docker             │
-│  Monitoring      │ Prometheus │ Grafana │ ELK Stack          │
-│  CI/CD          │ Jenkins │ GitLab CI │ GitHub Actions      │
-│  Databases      │ MongoDB │ PostgreSQL │ Redis │ InfluxDB   │
-└─────────────────────────────────────────────────────────────┘
-```
-
-## 🛠️ Tech Stack
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Programming & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### AI/ML Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+### Web Development
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Monitoring & DevOps
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🤖 [Multi-Agent Chatbot System](https://github.com/kartik/multi-agent-chatbot-system)
-**Revolutionary AI system with intelligent GPU memory management and real-time monitoring**
+### [ChasmX](https://github.com/kkrriders/ChasmX) - AI Workflow Automation Platform
+**An intelligent workflow automation system with LLM integration and visual builder**
 
-- 🧠 **Intelligent Model Management**: Smart GPU optimization prevents model thrashing
-- 📊 **Real-Time Dashboard**: Live performance monitoring with WebSocket connections
-- 🔄 **Agent Communication Protocols**: Breakthrough multi-agent coordination system
-- ⚡ **Production Ready**: Cross-platform support with comprehensive error handling
+Key Features:
+- **AI Integration**: OpenRouter LLM with multiple model support (Gemini, Llama, Qwen)
+- **Smart Caching**: Redis-powered caching achieving 20-50x faster responses
+- **Visual Builder**: Drag-and-drop workflow creation with React Flow
+- **Agent Orchestration**: Multi-agent system for complex task handling
+- **Real-time Execution**: Live workflow tracking and execution logs
 
-`Node.js` `AI/ML` `WebSocket` `GPU Optimization` `Real-time Monitoring`
+**Tech**: `FastAPI` `Next.js` `MongoDB` `Redis` `OpenRouter` `TypeScript`
 
----
-
-### 📈 [Real-Time Monitoring & Alerting System](https://github.com/kartik/realtime-monitoring-system)
-**Enterprise-grade monitoring solution with intelligent alerting and auto-scaling**
-
-- 📊 **Real-Time Metrics**: Sub-second latency monitoring with Prometheus & Grafana
-- 🚨 **Intelligent Alerting**: ML-powered anomaly detection and smart notifications
-- 🔧 **Auto-Remediation**: Automated incident response and self-healing systems
-- 📱 **Multi-Channel Alerts**: Slack, PagerDuty, email, and SMS integrations
-
-`Prometheus` `Grafana` `Kubernetes` `Machine Learning` `Microservices`
-
----
-
-### 🔐 [Cloud-Native IAM System](https://github.com/kartik/cloud-native-iam)
-**Scalable identity and access management with zero-trust architecture**
-
-- 🛡️ **Zero-Trust Security**: Multi-factor authentication with risk-based policies
-- 🔑 **JWT & OAuth2**: Secure token management with refresh rotation
-- 📊 **Audit & Compliance**: Real-time security monitoring and compliance reporting
-- ⚡ **Serverless Architecture**: Auto-scaling with 99.99% uptime SLA
-
-`AWS Lambda` `Cognito` `DynamoDB` `API Gateway` `Security`
+**What I Learned**:
+- Implementing LLM caching strategies for cost and speed optimization
+- Building visual workflow editors with state management
+- Designing multi-agent communication protocols
+- Handling asynchronous AI processing pipelines
 
 ---
 
-### 🚀 [CI/CD for Microservices](https://github.com/kartik/microservices-cicd)
-**Automated deployment pipeline with blue-green deployments and rollback**
+### AI Learning Projects
 
-- 🔄 **GitOps Workflow**: Automated deployments triggered by Git commits
-- 🔵 **Blue-Green Deployments**: Zero-downtime deployments with instant rollback
-- 🧪 **Automated Testing**: Unit, integration, and load testing in pipeline
-- 📈 **Performance Monitoring**: Deployment success tracking and SLA monitoring
+#### Prompt Engineering Experiments
+Exploring effective prompting strategies:
+- Chain-of-Thought prompting for complex reasoning
+- Few-shot learning techniques
+- Prompt optimization for different LLM models
+- Context window management strategies
 
-`Jenkins` `Kubernetes` `Docker` `Helm` `GitOps`
+#### RAG System Implementation
+Building Retrieval-Augmented Generation systems:
+- Vector database integration with embeddings
+- Semantic search and document retrieval
+- Context injection and prompt construction
+- Evaluation metrics for RAG quality
 
----
+## Learning Journey
 
-### ⚡ [Serverless ETL Services](https://github.com/kartik/serverless-etl)
-**Event-driven data processing with auto-scaling and cost optimization**
+```python
+class AIJourney:
+    def __init__(self):
+        self.current_focus = [
+            "LLM Integration & API Design",
+            "Multi-Agent System Architectures",
+            "Caching & Performance Optimization",
+            "Prompt Engineering Best Practices"
+        ]
 
-- 📊 **Real-Time Processing**: Stream processing with Apache Kafka and AWS Kinesis
-- 💰 **Cost Optimized**: Pay-per-use with automatic resource scaling
-- 🔧 **Data Transformation**: Complex ETL pipelines with error handling and retry logic
-- 📈 **Analytics Ready**: Direct integration with data warehouses and BI tools
+    def learning_goals(self):
+        return {
+            "short_term": [
+                "Master LangChain for AI workflows",
+                "Build production-ready RAG systems",
+                "Optimize LLM inference costs"
+            ],
+            "long_term": [
+                "Fine-tune custom language models",
+                "Contribute to open-source AI tools",
+                "Build scalable AI infrastructure"
+            ]
+        }
 
-`AWS Lambda` `Kinesis` `S3` `Glue` `Apache Kafka`
+    def share_knowledge(self):
+        # Documenting my journey to help others
+        return "Learning in public, growing together"
+```
 
----
+## Skills & Competencies
 
-### 🎛️ [Dynamic Infrastructure Scaling](https://github.com/kartik/dynamic-infrastructure)
-**Intelligent auto-scaling system with predictive analytics and cost optimization**
+**AI/ML Development**
+- LLM Integration (OpenAI, Anthropic, OpenRouter)
+- Prompt Engineering & Optimization
+- Multi-Agent System Design
+- RAG System Implementation
+- AI Caching & Performance Tuning
 
-- 🤖 **ML-Powered Scaling**: Predictive scaling based on historical patterns
-- 💸 **Cost Optimization**: Intelligent resource allocation to minimize expenses
-- 🔧 **Multi-Cloud Support**: Seamless scaling across AWS, Azure, and GCP
-- 📊 **Real-Time Insights**: Resource utilization dashboards and cost tracking
+**Backend Development**
+- FastAPI & RESTful APIs
+- Async Python Programming
+- Database Design (MongoDB, Redis)
+- Authentication & Security (JWT, OTP)
 
-`Terraform` `Kubernetes HPA` `AWS Auto Scaling` `Machine Learning`
+**Frontend Development**
+- Next.js & React
+- TypeScript
+- State Management
+- Visual Workflow Builders (React Flow)
 
-## 📊 GitHub Analytics
+## Current Learning Path
+
+| Phase | Focus Area | Status |
+|-------|-----------|--------|
+| 1 | LLM API Integration | ✅ Completed |
+| 2 | Caching & Optimization | ✅ Completed |
+| 3 | Multi-Agent Systems | 🚧 In Progress |
+| 4 | RAG Implementation | 🚧 In Progress |
+| 5 | Model Fine-tuning | 📋 Planned |
+| 6 | Advanced Orchestration | 📋 Planned |
+
+## AI Development Insights
+
+### Performance Optimization Wins
+```
+🚀 Implemented Redis caching for LLM responses
+   ├─ Before: 2-5s average response time
+   ├─ After:  0.05-0.1s cached responses
+   └─ Result: 20-50x performance improvement
+
+💡 Smart cache invalidation strategy
+   ├─ Hash-based cache keys
+   ├─ TTL management
+   └─ Context-aware caching
+```
+
+### Architecture Decisions
+```yaml
+Why_FastAPI:
+  - Async support for concurrent AI calls
+  - Built-in Pydantic validation
+  - Auto-generated API documentation
+  - Easy WebSocket integration
+
+Why_Redis:
+  - Sub-millisecond latency
+  - Perfect for LLM response caching
+  - Pub/Sub for real-time updates
+  - Simple key-value operations
+
+Why_MongoDB:
+  - Flexible schema for workflows
+  - Great for JSON-like documents
+  - Easy to scale
+  - Rich query capabilities
+```
+
+## GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkrriders&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkrriders&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
+## Real-Time Coding Activity
+
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartik&theme=radical&hide_border=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
-## 🏆 Achievements & Recognition
+> **Note**: Set up [WakaTime](https://wakatime.com/) to automatically track your coding time and languages. This updates automatically via GitHub Actions!
 
-- 🥇 **Cloud Architecture Excellence**: Designed systems handling 1M+ requests/day
-- 🚀 **AI Innovation Award**: Pioneer in multi-agent communication protocols
-- 📈 **Performance Optimization**: Achieved 40% cost reduction through intelligent scaling
-- 🔧 **DevOps Transformation**: Reduced deployment time from hours to minutes
-- 🛡️ **Security Excellence**: Implemented zero-breach security architectures
+<details>
+<summary><b>How to Set Up WakaTime Stats</b></summary>
 
-## 📈 System Architecture Philosophy
+1. Create a [WakaTime](https://wakatime.com/) account
+2. Get your WakaTime API key from settings
+3. Add it to your GitHub secrets as `WAKATIME_API_KEY`
+4. Create `.github/workflows/waka-readme.yml`:
 
 ```yaml
-Design_Principles:
-  Scalability: "Design for 10x growth from day one"
-  Reliability: "Embrace failure, build resilience"
-  Security: "Zero-trust, defense in depth"
-  Observability: "If you can't measure it, you can't improve it"
-  Cost_Optimization: "Right-size resources, maximize ROI"
-  Innovation: "Continuous learning, breakthrough thinking"
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 ```
 
-## 🌐 Connect With Me
+Your stats will auto-update daily!
+</details>
+
+## Learning Resources I Recommend
+
+**AI/ML Fundamentals**
+- [LangChain Documentation](https://python.langchain.com/) - Essential for AI workflows
+- [OpenAI Cookbook](https://cookbook.openai.com/) - Practical LLM examples
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) - Master prompting
+
+**System Design**
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices)
+- [Redis Best Practices](https://redis.io/docs/management/optimization/)
+
+## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikArora3135)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/KartikAror23722)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikarora3135@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kartik-portfolio.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkrriders)
 
 </div>
 
-## 💡 Current Focus
+## Current Status
 
-- 🔬 **Research**: Advanced multi-agent AI communication protocols
-- ☁️ **Cloud Innovation**: Next-generation serverless architectures
-- 🤖 **AI Infrastructure**: Optimizing GPU resources for large-scale AI deployments
-- 📊 **Observability**: Building intelligent monitoring systems with predictive analytics
-- 🌱 **Sustainability**: Green computing practices and carbon-efficient architectures
+```javascript
+const kartik = {
+    location: "Building AI systems",
+    currentProject: "ChasmX - AI Workflow Automation",
+    learning: ["LangChain", "Multi-Agent Systems", "RAG"],
+    challenge: "Optimizing LLM costs while maintaining quality",
+    funFact: "Reduced API costs by 95% through smart caching",
+    askMeAbout: ["FastAPI", "LLM Integration", "Workflow Automation"],
+    collaboration: "Open to AI/ML projects and learning together"
+};
+```
 
 ---
 
 <div align="center">
 
-**"Building the future, one intelligent system at a time"** 🚀
+**Building AI systems, one line of code at a time**
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kartik.kartik)](https://github.com/kartik)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kkrriders.kkrriders)
+
+*Last Updated: Auto-updates with WakaTime stats*
 
 </div>
